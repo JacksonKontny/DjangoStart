@@ -1,0 +1,18 @@
+Django==1.8.2
+amqp==1.4.6
+anyjson==0.3.3
+argparse==1.2.1
+billiard==3.3.0.20
+celery==3.1.18
+--allow-external feedparser==5.2.0
+flake8==2.4.1
+gunicorn==19.3.0
+kombu==3.0.26
+mccabe==0.3.1
+pep8==1.5.7
+psycopg2==2.6.1
+pyflakes==0.8.1
+pytz==2015.4
+redis==2.10.3
+setproctitle==1.1.8
+wsgiref==0.1.2
